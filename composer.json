@@ -1,0 +1,17 @@
+{
+    "name": "oppa/oauth2",
+    "autoload": {
+        "psr-4": {
+            "Oppa\\Oauth2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TunaArcher",
+            "email": "9tnk.sl@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
